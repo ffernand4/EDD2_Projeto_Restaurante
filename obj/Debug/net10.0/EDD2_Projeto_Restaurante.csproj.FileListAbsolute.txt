@@ -1,0 +1,15 @@
+/workspaces/EDD2_Projeto_Restaurante/bin/Debug/net10.0/EDD2_Projeto_Restaurante
+/workspaces/EDD2_Projeto_Restaurante/bin/Debug/net10.0/EDD2_Projeto_Restaurante.deps.json
+/workspaces/EDD2_Projeto_Restaurante/bin/Debug/net10.0/EDD2_Projeto_Restaurante.runtimeconfig.json
+/workspaces/EDD2_Projeto_Restaurante/bin/Debug/net10.0/EDD2_Projeto_Restaurante.dll
+/workspaces/EDD2_Projeto_Restaurante/bin/Debug/net10.0/EDD2_Projeto_Restaurante.pdb
+/workspaces/EDD2_Projeto_Restaurante/obj/Debug/net10.0/EDD2_Projeto_Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EDD2_Projeto_Restaurante/obj/Debug/net10.0/EDD2_Projeto_Restaurante.AssemblyInfoInputs.cache
+/workspaces/EDD2_Projeto_Restaurante/obj/Debug/net10.0/EDD2_Projeto_Restaurante.AssemblyInfo.cs
+/workspaces/EDD2_Projeto_Restaurante/obj/Debug/net10.0/EDD2_Projeto_Restaurante.csproj.CoreCompileInputs.cache
+/workspaces/EDD2_Projeto_Restaurante/obj/Debug/net10.0/EDD2_Projeto_Restaurante.sourcelink.json
+/workspaces/EDD2_Projeto_Restaurante/obj/Debug/net10.0/EDD2_Projeto_Restaurante.dll
+/workspaces/EDD2_Projeto_Restaurante/obj/Debug/net10.0/refint/EDD2_Projeto_Restaurante.dll
+/workspaces/EDD2_Projeto_Restaurante/obj/Debug/net10.0/EDD2_Projeto_Restaurante.pdb
+/workspaces/EDD2_Projeto_Restaurante/obj/Debug/net10.0/EDD2_Projeto_Restaurante.genruntimeconfig.cache
+/workspaces/EDD2_Projeto_Restaurante/obj/Debug/net10.0/ref/EDD2_Projeto_Restaurante.dll
